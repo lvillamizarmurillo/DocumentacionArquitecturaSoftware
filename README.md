@@ -10,6 +10,12 @@ En resumen, la arquitectura de software es el plano maestro que guía el proceso
 
 ​				La arquitectura de software es como el plano de una casa. Es la estructura principal que muestra 				cómo todas las partes del software encajan y se comunican entre sí. Ayuda a los programadores a 				construir el software de manera eficiente y asegurarse de que funcione bien. Es como el esqueleto 				del software que lo mantiene organizado y en buen estado.
 
+ArquitecturaSoftware
+
+![ArquitecturaSoftware](./img/ArquitecturaSoftware.jpg)
+
+
+
 # Patron de diseño
 
 ### ¿Qué es?
@@ -94,3 +100,11 @@ Entonces, ¿qué debes tener en cuenta al elegir un estilo?
 En resumen, la elección del estilo de arquitectura en el software es como elegir un diseño para tu casa. Debe ser funcional, eficiente y adaptable a tus necesidades y presupuesto.
 
 **SOLID:** El principio SOLID es un conjunto de reglas simples que nos ayudan a escribir programas de computadora más fáciles de entender y mantener. Cada letra de SOLID representa un consejo diferente para hacer que el código sea ordenado y flexible. Al seguir estos consejos, se vuelve más sencillo agregar nuevas funciones o hacer cambios en el software sin causar problemas en otras partes del programa. En resumen, SOLID es como un conjunto de buenas prácticas que nos ayuda a escribir código más claro y organizado.
+
+![Solid](./img/Solid.jpg)
+
+------
+
+#### Echo por:
+
+Ludwing Santiago Villamizar Murillo
